@@ -1,2 +1,0 @@
-# myproject
-My practice project
